@@ -1,0 +1,3 @@
+[submodule "etc/master"]
+	path = etc/master
+	url = git@github.com:GL0K3/.proxy.git
