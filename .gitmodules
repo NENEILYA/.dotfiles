@@ -1,21 +1,9 @@
-[submodule "etc/master"]
-	path = etc/master
-	url = git@github.com:GL0K3/.proxy.git
-[submodule "etc/proxy"]
-	path = etc/proxy
-	url = git@github.com:GL0K3/.proxy.git
 [submodule ".config/nvim"]
 	path = .config/nvim
-	url = git@github.com:GL0K3/.nvim.git
+	url = git@github.com:NENEILYA/.nvim.git
 [submodule ".config/tmux"]
 	path = .config/tmux
-	url = git@github.com:GL0K3/.tmux.git
+	url = git@github.com:NENEILYA/.tmux.git
 [submodule ".config/kitty"]
 	path = .config/kitty
-	url = git@github.com:GL0K3/.kitty.git
-[submodule ".config/hypr"]
-	path = .config/hypr
-	url = git@github.com:GL0K3/.hypr.git
-[submodule "etc/nixos"]
-	path = etc/nixos
-	url = git@github.com:GL0K3/.nixos.git
+	url = git@github.com:NENEILYA/.kitty.git
